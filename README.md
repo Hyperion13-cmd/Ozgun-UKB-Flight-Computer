@@ -13,7 +13,7 @@ Avionics Flight Control Computer (UKB) for Teknofest Rocket. Features dual-stage
 
 
 ## 📌 Project Overview
-"Özgün UKB" is a custom-designed Flight Control Computer developed for high-altitude rocket competitions (Teknofest / IREC). It is engineered to perform real-time flight dynamics tracking, autonomous dual-stage parachute deployment, and long-range telemetry communication under high vibration and extreme G-force environments.
+"Özgün UKB" is a custom-designed Flight Control Computer developed for high-altitude rocket competitions (Teknofest). It is engineered to perform real-time flight dynamics tracking, autonomous dual-stage parachute deployment, and long-range telemetry communication under high vibration and extreme G-force environments.
 
 ### ⚙️ Core System Architecture
 The hardware architecture is built around the Arduino Nano ESP32, integrating industrial-grade sensors and power management:
