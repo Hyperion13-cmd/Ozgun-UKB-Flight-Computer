@@ -6,6 +6,9 @@ Avionics Flight Control Computer (UKB) for Teknofest Rocket. Features dual-stage
 <img width="1280" height="960" alt="image" src="https://github.com/user-attachments/assets/a007463a-993e-4d52-bc77-6fa2b23fdb52" />
 <img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/eeafdce4-9909-4bc7-a827-6e54c73254c0" />
 <img width="1280" height="960" alt="image" src="https://github.com/user-attachments/assets/c6cd71b2-d415-44bf-98d5-8aaeb6c3145d" />
+<img width="576" height="1280" alt="image" src="https://github.com/user-attachments/assets/4063704e-8555-4404-bdf0-645eafdfc4bb" />
+<img width="1280" height="960" alt="image" src="https://github.com/user-attachments/assets/95c10744-663a-48d4-b030-619eee4a2598" />
+
 
 
 
